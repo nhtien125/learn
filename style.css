@@ -1,0 +1,30 @@
+.body{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.banner{
+    border: 1px solid red;
+    height: 500px;
+    background: url('./images/anh2.jpg') center center  no-repeat;
+    padding: 20px;
+}
+.about-login{
+    border: 1px solid green;
+    height: 80px;
+    width: 100%;
+    text-align: right;
+   
+}
+.About, .Login{
+    margin-top: 20px;
+    padding: 7px;
+    text-decoration: none;
+    display: inline-block;
+    text-transform: uppercase;
+}
+.Login{
+    margin-right: 60px;
+    margin-left: 25px ;
+    border-radius: 15px;
+    border: 2px solid yellowgreen;
+}
